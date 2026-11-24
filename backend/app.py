@@ -1,3 +1,4 @@
+# версия API на сервере
 from flask import Flask, jsonify
 
 app = Flask(__name__)
